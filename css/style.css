@@ -3826,8 +3826,6 @@ address p {
 
 .home-banner {
     background-image: url("../img/banner/home-banner1.jpg")!important;
-    width: 100%;
-    height: auto;
     background-repeat: no-repeat;
     background-size: contain;
 }
